@@ -2,8 +2,6 @@
 
 A pixel-faithful, feature-complete clone of [importnow-concept.vercel.app](https://importnow-concept.vercel.app/#home) — a premium China-to-India import services web application.
 
-**Assignment submitted to:** Sabiya@importnow.in
-
 ---
 
 ## 🛠 Tech Stack
@@ -63,9 +61,6 @@ npm install
 
 # 3. Start local development server
 npm run dev
-```
-
-Open **[http://localhost:5173](http://localhost:5173)** in your browser.
 
 ---
 
